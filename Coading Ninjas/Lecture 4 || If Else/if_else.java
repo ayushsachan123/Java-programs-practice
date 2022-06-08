@@ -17,3 +17,8 @@ public class if_else {
 	}
 
 }
+//Input--
+// 20
+// Output--
+// adult
+
